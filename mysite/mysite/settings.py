@@ -44,7 +44,8 @@ INSTALLED_APPS = [
     'django.contrib.sitemaps',
     'django.contrib.staticfiles',
     'taggit',
-    'blog.apps.BlogConfig',
+    'django.contrib.postgres',
+    'blog.apps.BlogConfig'
 ]
 
 MIDDLEWARE = [
