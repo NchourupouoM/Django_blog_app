@@ -1,0 +1,1124 @@
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2025-07-28T01:06:52.848Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was django Reinard",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2025-07-28T01:15:00.174Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "new test",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2025-07-28T11:33:51.083Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Article publie 1",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2025-07-28T11:35:03.939Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was django Reinard",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2025-07-31T07:47:28.512Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "blog de photographie",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2025-07-31T07:47:58.490Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "blog de design d’intérieur",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2025-07-31T07:48:29.233Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "blog de critique gastronomique",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2025-07-31T07:48:43.115Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "blog de critique gastronomique",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2025-07-31T07:48:58.124Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "new test",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2025-07-31T12:06:44.350Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Nchourupouo on new title",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2025-08-07T23:47:26.658Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "3",
+    "object_repr": "django",
+    "action_flag": 2,
+    "change_message": "[{\"added\": {\"name\": \"tagged item\", \"object\": \"Who was django Reinard tagged with django\"}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2025-08-08T00:25:06.979Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "new title",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\", \"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2025-08-08T00:25:14.822Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Article publie 1",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2025-09-28T10:18:53.342Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was django Reinard",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2025-09-28T10:19:16.999Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was django Reinard",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2025-09-28T10:19:35.473Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "new test",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2025-09-28T10:19:56.717Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "7",
+    "object_repr": "blog de critique gastronomique",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2025-09-28T13:01:23.436Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "markdown-post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2025-09-28T13:02:45.478Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "markdown-post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2025-09-28T13:03:22.465Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "markdown-post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2025-09-28T13:04:55.814Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "8",
+    "object_repr": "Markdown Post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Body\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2025-09-28T13:41:50.066Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2025-09-28T13:49:56.005Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "example.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2025-09-28T13:50:57.659Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$1000000$2AYkbvEzXP8PdsjJsT20Tu$+Rm8tlUY7z2iBwxfM+cOXHfqS/Iapy5lTHgAUI9++aM=",
+    "last_login": "2025-09-28T10:18:23.610Z",
+    "is_superuser": true,
+    "username": "mohamed",
+    "first_name": "",
+    "last_name": "",
+    "email": "nchourupouom04@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2025-07-28T00:58:12.054Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "2vfr36nkr9vl7wdczie15cdnn01yh497",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnZdZbYlPScIfJ-wAHkSPlUiLtDpBTQvpl5L9fndSn9OtvUD-pODtzhd-MsD6sb0Huut9HLWJdpYL8pfqezv4xqz_Pu_h2UPJdvjUYRInBj10iNcdJAlEM6YuoECBICBm6FO0qEpgraIkoAEY2s6t4fxOQ3mg:1ugM6U:mBilQhXvgf4kmHNxBk02tSR7XHntOG_5_XYF4mZw39k",
+    "expire_date": "2025-08-11T11:33:14.282Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "hw1kdsefr7cdxq8h5bphtua4pwyh8vhm",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnZdZbYlPScIfJ-wAHkSPlUiLtDpBTQvpl5L9fndSn9OtvUD-pODtzhd-MsD6sb0Huut9HLWJdpYL8pfqezv4xqz_Pu_h2UPJdvjUYRInBj10iNcdJAlEM6YuoECBICBm6FO0qEpgraIkoAEY2s6t4fxOQ3mg:1ugCDO:iZDlFFdZe1NIeO2_pX_ZB_BmU3JLxxxzISgKVsfacHM",
+    "expire_date": "2025-08-11T00:59:42.737Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "tcye7w4tcsaz4y92iugj3nq34ns90zwb",
+  "fields": {
+    "session_data": ".eJxVjDsOwjAQBe_iGlnZdZbYlPScIfJ-wAHkSPlUiLtDpBTQvpl5L9fndSn9OtvUD-pODtzhd-MsD6sb0Huut9HLWJdpYL8pfqezv4xqz_Pu_h2UPJdvjUYRInBj10iNcdJAlEM6YuoECBICBm6FO0qEpgraIkoAEY2s6t4fxOQ3mg:1v2oU3:TEZX5j_79m7fwA3Fmp6eIXWD3wZNjkUKXZ_y6ZIDxmM",
+    "expire_date": "2025-10-12T10:18:23.612Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jazz",
+    "slug": "jazz"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "music",
+    "slug": "music"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "django",
+    "slug": "django"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "tag1",
+    "slug": "tag1"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "nourriture",
+    "slug": "nourriture"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 2,
+  "fields": {
+    "tag": 2,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 8,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 7
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 8
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "status": "PB",
+    "title": "Who was django Reinard",
+    "slug": "Who-was-django-Reinard",
+    "author": 1,
+    "body": "kjekjgroebngbjorjornfnor",
+    "publish": "2025-07-28T01:06:05Z",
+    "created": "2025-07-28T01:06:52.846Z",
+    "updated": "2025-09-28T10:19:16.991Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "status": "PB",
+    "title": "new test",
+    "slug": "new-test",
+    "author": 1,
+    "body": "nbkjkjdnk",
+    "publish": "2025-07-28T01:14:15Z",
+    "created": "2025-07-28T01:15:00.171Z",
+    "updated": "2025-09-28T10:19:35.467Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "status": "PB",
+    "title": "new title",
+    "slug": "Another-post",
+    "author": 1,
+    "body": "Post body",
+    "publish": "2025-07-28T01:39:48Z",
+    "created": "2025-07-28T01:39:55.769Z",
+    "updated": "2025-08-08T00:25:06.974Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "status": "PB",
+    "title": "Article publie 1",
+    "slug": "article-publie-1",
+    "author": 1,
+    "body": "Test de publication",
+    "publish": "2025-07-28T11:33:18Z",
+    "created": "2025-07-28T11:33:51.082Z",
+    "updated": "2025-08-08T00:25:14.818Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "status": "PB",
+    "title": "blog de photographie",
+    "slug": "blog-de-photographie",
+    "author": 1,
+    "body": "Le blog Zion Adventure photog permet à Arika, son autrice, de gagner ses lettres de noblesse en tant qu’experte tant du domaine de la photographie que du Parc national de Zion. La palette de couleurs naturelle et ludique de cet exemple de blog, principalement marron et dorée, évoque la terre et le soleil. Sa page d’accueil présente des témoignages visuels de clients heureux profitant de leurs aventures. Arika intègre son fil Instagram directement sur son site, ce qui lui permet de présenter ses services et de mieux faire connaître sa marque grâce au marketing sur les réseaux sociaux.",
+    "publish": "2025-07-31T07:33:08Z",
+    "created": "2025-07-31T07:47:28.510Z",
+    "updated": "2025-07-31T07:47:28.510Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "status": "PB",
+    "title": "blog de design d’intérieur",
+    "slug": "blog-de-design-dinterieur",
+    "author": 1,
+    "body": "Le blog de design d’intérieur Seasons in Colour de Jenny Kakoudakis est un exemple de blog qui propose des contenus éducatifs aux designers, le tout avec un site sophistiqué, élégant et convivial. Elle a remporté un Amara Interior Blog Award en 2016.\r\n\r\nLa page d’accueil du site présente une photo pleine page de l’article de fond. L’article secondaire s’affiche sur un fond noir, ce qui rompt le design du site tout en attirant l’attention sur un article dont Jenny est particulièrement fière. Elle a conçu une page de shopping truffée de liens vers des boutiques partenaires pour monétiser son blog.",
+    "publish": "2025-07-31T07:47:28Z",
+    "created": "2025-07-31T07:47:58.488Z",
+    "updated": "2025-07-31T07:47:58.488Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 7,
+  "fields": {
+    "status": "PB",
+    "title": "blog de critique gastronomique",
+    "slug": "blog-de-critique-gastronomique",
+    "author": 1,
+    "body": "All the Food est un blog consacré à tous les meilleurs restaurants et bars de Dublin. Contrairement à certains des autres sites Web de cette liste, All the Food est spécifiquement uniquement un blog plutôt qu’un site Web qui intègre un blog. Les lecteurs y trouvent différents types de contenus de blog, par exemple, des critiques gastronomiques, des guides de voyages et des listes de quartiers.\r\n\r\nCet exemple de blog présente six catégories différentes : quartiers, critiques, restaurants, guides de Dublin, guides de voyage et nouveautés. Son originalité réside dans le fait que chaque page de catégorie possède une structure différente en fonction du type de contenus. Il en va de même pour les pages d’article de blog. Cela montre à quel point Lisa Cope, la rédactrice, comprend les contenus et qu’il n’existe pas de solution unique pour structurer vos pages, si vous souhaitez créer une expérience utilisateur exceptionnelle.",
+    "publish": "2025-07-31T07:47:58Z",
+    "created": "2025-07-31T07:48:29.232Z",
+    "updated": "2025-09-28T10:19:56.711Z"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 8,
+  "fields": {
+    "status": "PB",
+    "title": "Markdown Post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\n\r\nHere is a list:\r\n\r\n* One\r\n\r\n* Two\r\n\r\n* Three\r\n\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2025-09-28T13:00:20Z",
+    "created": "2025-09-28T13:01:23.430Z",
+    "updated": "2025-09-28T13:04:55.811Z"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 3,
+    "name": "Nchourupouo",
+    "email": "nchourupouom04@gmail.com",
+    "body": "Beautiful post.",
+    "created": "2025-07-31T12:06:44.350Z",
+    "updated": "2025-07-31T12:06:44.350Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 7,
+    "name": "Nchourupouo",
+    "email": "nchourupouom04@gmail.com",
+    "body": "good article",
+    "created": "2025-08-07T13:07:06.442Z",
+    "updated": "2025-08-07T13:07:06.442Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 7,
+    "name": "Nchourupouo",
+    "email": "nchourupouom04@gmail.com",
+    "body": "very interesting post to be share with another viewer.",
+    "created": "2025-08-07T13:08:30.392Z",
+    "updated": "2025-08-07T13:08:30.392Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 4,
+  "fields": {
+    "post": 7,
+    "name": "Nchourupouo",
+    "email": "nchourupouom04@gmail.com",
+    "body": "very exiting content.",
+    "created": "2025-09-28T10:00:06.112Z",
+    "updated": "2025-09-28T10:00:06.112Z",
+    "active": true
+  }
+}
+]
